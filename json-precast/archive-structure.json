@@ -1,0 +1,8 @@
+{
+	"Ebook" : {
+		"selectKey" : [
+			"Collection"
+		],
+		"sortKey" : {"Title" : 1}
+	}
+}
