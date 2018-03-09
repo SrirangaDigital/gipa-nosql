@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Nudi';
+  src: url('NUDIUNI01K.ttf');
+  unicode-range: U+0C80-0CFF;
+}
 .col-padded {
     padding: 60px 30px 30px 30px;
     background-color: #FFF;
@@ -238,6 +243,8 @@ a.moretag {
     width: 100%;
 }
 .post .image-desc {
+    font-family: 'Nudi';
+    font-size: 20px;
     padding: 15px;
     margin-bottom: 0;
 }
@@ -254,7 +261,7 @@ a.moretag {
 
 /* Small devices */
 @media (min-width: 430px) {
-    #grid > #posts .post { width: 300px; }
+    #grid > #posts .post { width: 250px; }
     #grid > #posts .post.cs2 { width: 100%; }
     .post img { padding: 0; }
     #posts {margin-left: -20px;}
@@ -262,7 +269,7 @@ a.moretag {
 
 /* Medium devices */
 @media (min-width: 768px) {
-    #grid > #posts .post { width: 300px; }
+    #grid > #posts .post { width: 250px; }
     #grid > #posts .post.cs2 { width: 100%; }
     .post img { padding: 0; }
     .spp-general{
@@ -276,19 +283,20 @@ a.moretag {
 
 /* Medium devices */
 @media (min-width: 992px) {
-    #grid > #posts .post { width: 300px; }
+    #grid > #posts .post { width: 250px; }
     #grid > #posts .post.cs2 { width: 100%; }
 }
 
 /* Large devices */
 @media (min-width: 1200px) {
-    #grid > #posts .post { width: 300px; }
+    #grid > #posts .post { width: 210px; }
     #grid > #posts .post.cs2 { width: 742px; }
 }
 .image-full-size img{
     /*max-width: 850px;*/
     margin: 0 auto;
 }
+
 .eBookDetails .middelPannel{
     padding-left: 50px;
 }
@@ -296,6 +304,7 @@ a.moretag {
     color: #e5ae47;
 }
 .middelPannel .title{
+    font-family: 'Nudi';
     font-weight: 400;
     font-size: 24px;
 }
@@ -309,8 +318,8 @@ a.moretag {
     content: "–";
 }
 .middelPannel .author{
-    font-weight: 200;
-    font-size: 14px;
+    font-family: 'Nudi';
+    font-size: 18px;
     text-align: left;
     margin-left: 20px;
     color: #847B7B;
@@ -320,6 +329,8 @@ a.moretag {
     border: 1px solid green;
 }
 .eBookDetails .middelPannel .description {
+    font-family: 'Nudi';
+    font-size: 17px;
     border-bottom: 1px solid #ededed;
 }
 .eBookDetails .middelPannel .highlights {

@@ -138,7 +138,7 @@ function buildMasonry(){
         
         // Ensures that all top-level elements have equal width and stay centered
         
-        jQuery('#posts, #grid').css('width', '1325px');
+        jQuery('#posts, #grid').css('width', '1290px');
         // jQuery('#posts').css({'margin-left': '-20px'});  
     }
 }

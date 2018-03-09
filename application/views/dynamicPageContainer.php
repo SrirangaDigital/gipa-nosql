@@ -3,11 +3,11 @@
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
             <ul class="list-inline sub-nav">
-                <li><a href="<?=BASE_URL?>listing/Categories/Photograph?select=Collection">Photographs</a></li>
+                <li><a href="<?=BASE_URL?>listing/Categories/Ebook?select=Collection">Ebooks</a></li>
                 <li><a>·</a></li>
-                <li><a href="<?=BASE_URL?>listing/Categories/Publication?select=Publication">Publications</a></li>
-                <li><a>·</a></li>
-                <li><a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">Oral History Archives</a></li>
+                <li><a href="javascript:void(0);">Archives</a></li>
+                <!-- <li><a>·</a></li> -->
+                <!-- <li><a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">Oral History Archives</a></li>
                 <li><a>·</a></li>
                 <li id="searchForm">
                     <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">
@@ -23,7 +23,7 @@
                             </div>
                         </div>
                     </form>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>

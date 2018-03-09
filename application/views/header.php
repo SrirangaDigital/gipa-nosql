@@ -70,7 +70,7 @@
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#collection">Gallery</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
-                    <li><a href="<?=BASE_URL?>#physical">Upcoming Events</a></li>
+                    <li><a href="<?=BASE_URL?>#">Upcoming Events</a></li>
                     <li><a>·</a></li>
                     <li><a href="#">Contact Info</a></li>
                     <li><a>·</a></li>
@@ -82,7 +82,7 @@ if(isset($_SESSION['login']))
 }
 else
 {
-    echo '<a href="' . BASE_URL . 'user/login">Login</a>';
+    echo '<a href="' . BASE_URL . '#">Login</a>';
 }
 ?>
                     </li>

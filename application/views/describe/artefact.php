@@ -37,13 +37,12 @@ $(document).ready(function(){
                     <div class="row description">
                         <div class="col-md-2">Description:</div>
                         <div class="col-md-8">
-                            <p>ಸೌಂದರ್ಯ ತ್ರಿಕೂಟ-ಸಹಿತತೆಯಿಂದ ಸಾಹಿತ್ಯ-ಸಾಹಿತ್ಯ ಸಂಹಿತೆ-ರಸ-ರಸಭ್ರಾಂತಿ-ಕಾವ್ಯದ ಕೆಲಸ-ಷೇಕ್ಸ್‍ಪಿಯರಿಗೆ ನಮಸ್ಕಾರ-ಮಹಾಭಾರತದ ಪಾತ್ರಗಳು-ಕಾವ್ಯವು ಸ್ವಭಾವೋಲ್ಲಾಸ-ಈ ಪ್ರಬಂಧಗಳಲ್ಲಿ ಶ್ರೀ ಡಿ.ವಿ.ಜಿ. ಯವರು ಕಾವ್ಯದ ಸ್ವಭಾವ ರಸಾನುಭವಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟಂತೆ ವಿಷಯಗಳನ್ನು ವಿವೇಚಿಸಿದ್ದಾರೆ  <a href="javascript:void(0);"><span class="readMore">...more</span></a></p>
+                            <p>ಸೌಂದರ್ಯ ತ್ರಿಕೂಟ-ಸಹಿತತೆಯಿಂದ ಸಾಹಿತ್ಯ-ಸಾಹಿತ್ಯ ಸಂಹಿತೆ-ರಸ-ರಸಭ್ರಾಂತಿ-ಕಾವ್ಯದ ಕೆಲಸ-ಷೇಕ್ಸ್‍ಪಿಯರಿಗೆ ನಮಸ್ಕಾರ-ಮಹಾಭಾರತದ ಪಾತ್ರಗಳು-ಕಾವ್ಯವು ಸ್ವಭಾವೋಲ್ಲಾಸ-ಈ ಪ್ರಬಂಧಗಳಲ್ಲಿ ಶ್ರೀ ಡಿ.ವಿ.ಜಿ. ಯವರು ಕಾವ್ಯದ ಸ್ವಭಾವ ರಸಾನುಭವಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟಂತೆ ವಿಷಯಗಳನ್ನು ವಿವೇಚಿಸಿದ್ದಾರೆ  <!-- <a href="javascript:void(0);"><span class="readMore">...more</span></a> --></p>
                         </div>
                     </div>
                     <div class="row highlights">
                         <div class="col-md-2">Highlights:</div>
                         <div class="col-md-8">
-                            <p>Editor: <?=$data['details']['Editor']?></p>
                             <p>Language: <?=$data['details']['Language']?></p>
                             <p>Published: <?=$data['details']['Datepublished']?></p>
                             <p>Type: <?=$data['details']['Type']?></p>

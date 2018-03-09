@@ -107,7 +107,6 @@ class data extends Controller {
 				$data['id'] = $content['id'];
 				$data['Title'] = $content['title'];
 				$data['Author'] = 'ಡಿ. ವಿ. ಗುಂಡಪ್ಪ';
-				$data['Editor'] = 'ಹಾ. ಮಾ. ನಾಯಕ';
 				$data['Collection'] = $content['Collection'];
 				$data['Type'] = $content['Type'];
 				$data['Language'] = $content['language'];
