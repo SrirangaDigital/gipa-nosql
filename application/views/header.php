@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Indian Institute of Technology Madras</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Gokhale Institute of Public Affairs</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -64,13 +64,13 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="<?=BASE_URL?>#home">Heritage Centre</a></li>
+                    <li class="active"><a href="<?=BASE_URL?>#home">GIPA</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#about">About</a></li>
+                    <li><a href="<?=BASE_URL?>#background">Background</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#collection">Gallery</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
-                    <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
+                    <li><a href="<?=BASE_URL?>#physical">Upcoming Events</a></li>
                     <li><a>·</a></li>
                     <li><a href="#">Contact Info</a></li>
                     <li><a>·</a></li>
