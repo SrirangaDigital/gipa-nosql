@@ -69,7 +69,7 @@
                     <li><a href="<?=BASE_URL?>#background">Background</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#collection">Gallery</a></li>
-                    <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
+                    <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Gokhale Institute of Public Affairs" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#">Upcoming Events</a></li>
                     <li><a>·</a></li>
                     <li><a href="#">Contact Info</a></li>
