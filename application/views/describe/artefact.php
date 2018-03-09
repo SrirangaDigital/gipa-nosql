@@ -55,10 +55,10 @@ $(document).ready(function(){
                 <div class="col-md-2 rightPannel online">
                     <h4>Purchase Through</h4>
                     <div class="row">
-                        <div class="col-md-12"><a href="javascript:void(0);"><button type="button" class="btn btn-amazon">Amazon<br>Kindle</button></a></div>
-                        <div class="col-md-12"><a href="javascript:void(0);"><button type="button" class="btn btn-apple">Apple<br>iBooks</button></a></div>
-                        <div class="col-md-12"><a href="javascript:void(0);"><button type="button" class="btn btn-google">Google<br>Play Books</button></a></div>
-                        <div class="col-md-12"><a href="javascript:void(0);"><button type="button" class="btn btn-online">Online<br>Book Purchase</button></a></div>
+                        <div class="col-md-12"><a href="javascript:void(0);"><i class="fa fa-amazon"></i><button type="button" class="btn btn-amazon">Amazon<br>Kindle</button></a></div>
+                        <div class="col-md-12"><a href="javascript:void(0);"><i class="fa fa-apple"></i><button type="button" class="btn btn-apple">Apple<br>iBooks</button></a></div>
+                        <div class="col-md-12"><a href="javascript:void(0);"><i class="fa fa-google"></i><button type="button" class="btn btn-google">Google<br>Play Books</button></a></div>
+                        <div class="col-md-12"><a href="javascript:void(0);"><i class="fa fa-book"></i><button type="button" class="btn btn-online">Online<br>Purchase</button></a></div>
                     </div>
                 </div>
             </div>
