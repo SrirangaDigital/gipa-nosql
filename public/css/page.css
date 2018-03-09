@@ -405,7 +405,7 @@ a.moretag {
     position: relative;
     width:100%; 
     padding:0px;
-    background: url('../images/stock/slide1.jpg') no-repeat;
+    background: url('../images/stock/slide2.jpg') no-repeat;
     background-size: cover;
     min-height: 500px;
 }
@@ -834,7 +834,7 @@ img.img-center{
   font-size: 1.25em;
   border-radius: 10px;
 }
-#about{
+#background{
 	font-size: 16px;
 	line-height: 30px;
 	text-align: justify;
