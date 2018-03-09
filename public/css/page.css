@@ -841,18 +841,22 @@ img.img-center{
 .eBookDetails .online i{
   color: #FFFFFF;
   position: absolute;
-  font-size: 40px;
+  font-size: 35px;
   padding-top: 17px;
   padding-left: 10px;
   padding-right: 10px;
 }
 .eBookDetails .online a button{
+  text-align: left;
   margin: 5px 2px;
-  padding-left: 50px;
+  padding-left: 60px;
   border-radius: 0;
   width: 100%;
   font-size: 1.25em;
   border-radius: 10px;
+}
+.eBookDetails .online div:last-of-type{
+  margin-bottom: 8px;
 }
 #background{
 	font-size: 16px;
