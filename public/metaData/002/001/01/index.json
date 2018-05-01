@@ -1,0 +1,69 @@
+{
+    "volume": "001",
+    "issue": "01",
+    "year": "1949",
+    "month": "January",
+    "id": "002/001/01",
+    "toc": [
+        {
+            "title": "Individual Liberty under the coming constitution",
+            "page": "0005-0008",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Linguistic Provinces",
+            "page": "0008-0010",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Programme for Feb.1949 of the G.I.P.A study Circle",
+            "page": "0010-0011",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Editor",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "The Indian Citizen",
+            "page": "0011-0011",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "C. B. Srinivasa Rao",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}

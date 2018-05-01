@@ -5,7 +5,7 @@
             <ul class="list-inline sub-nav">
                 <li><a href="<?=BASE_URL?>listing/Categories/Ebook?select=Collection">Ebooks</a></li>
                 <li><a>·</a></li>
-                <li><a href="javascript:void(0);">Archives</a></li>
+                <li><a href="<?=BASE_URL?>listing/structure/Journal/?select=volume">Archives</a></li>
                 <!-- <li><a>·</a></li> -->
                 <!-- <li><a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">Oral History Archives</a></li>
                 <li><a>·</a></li>

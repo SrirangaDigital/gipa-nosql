@@ -48,12 +48,18 @@ $(document).ready(function() {
 
     $('#toggleSearchType input').on('change', function(){
 
-        var actionUrl = $('#searchForm form').attr('action');
+			var actionUrl = $('#searchForm form').attr('action');
 
-        actionUrl = ($(this).is(":checked")) ? actionUrl.replace('field', 'fulltext') : actionUrl.replace('fulltext', 'field');
-        
-        $('#searchForm form').attr('action', actionUrl);
+			actionUrl = ($(this).is(":checked")) ? actionUrl.replace('field', 'fulltext') : actionUrl.replace('fulltext', 'field');
+
+			$('#searchForm form').attr('action', actionUrl);
     });
+
+    // $( '.email-submit' ).on('click', function(event){
+
+    //     event.preventDefault();
+    //     alert('This facility will be made available shortly. Till then please write to us as heritage@iitm.ac.in');
+    // });
 });
 
 
@@ -93,6 +99,10 @@ jQuery(window).load(function () {
         var viewer = new Viewer(document.getElementById('viewCardImages'), {url: 'data-original'});
     }
 
+    if(document.getElementById('transcribeimages')){
+        
+        var viewer = new Viewer(document.getElementById('transcribeimages'), {url: 'data-original', inline: true, minHeight: $( window ).height()});
+    }
 });
 
 function buildMasonry(){
@@ -132,7 +142,7 @@ function buildMasonry(){
         
         // Ensures that all top-level elements have equal width and stay centered
         
-        jQuery('#posts, #grid').css('width', '1290px');
+        jQuery('#posts, #grid').css('width', '1325px');
         // jQuery('#posts').css({'margin-left': '-20px'});  
     }
 }
@@ -207,7 +217,7 @@ function buildMasonryFromJson(json){
 
             // This snippet is for listing of artefacts
 
-            displayString += '<div class="post">';    
+            displayString += '<div class="post">';
             displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '?' + aux.filterString + '" title="View Details" target="_blank">';
             displayString += '<img class="img-responsive" src="' +  obj[i].thumbnailPath + '">';
             displayString += '</a>';

@@ -1,0 +1,54 @@
+{
+    "volume": "001",
+    "issue": "11",
+    "year": "1949",
+    "month": "November",
+    "id": "002/001/11",
+    "toc": [
+        {
+            "title": "What is a Democratic Republic?",
+            "page": "0001-0004",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "American Constitution",
+            "page": "0004-0007",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Poetry and citizenship",
+            "page": "0007-0007",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Editor",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "volume": "023",
+    "issue": "10",
+    "year": "1980",
+    "month": "October",
+    "id": "002/023/10",
+    "toc": [
+        {
+            "title": "Sri Kudli Chidambaram",
+            "page": "0003-0004",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Mani",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Remembering D. V. G",
+            "page": "0004-0009",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "K. S. R.",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "D. V. G. Vani",
+            "page": "0009-0010",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Editor",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Alladi Krishnaswamy Ayyar",
+            "page": "0010-0010",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Sri. Gorur Ramaswamy Iyengar",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}

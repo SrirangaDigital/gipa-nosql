@@ -1,17 +1,18 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container-fluid" id="home">
-  <div class="row first-row">
-    <div class="col-md-12 clear-paddings">
-      <div class="fixOverlayDivHome gap-above">
-        <div class="OverlayTextMain">
-          <div class="mainpage">
-            <h2>The Gokhale Institute of Public Affairs (GIPA)</h2>
-            <p>The Gokhale Institute of Public Affairs (GIPA) is an independent, non-party and non communal organization endeavouring to serve as a center for the education of the public for democratic citizenship. It seeks to Co-operate with, and seeks Co-operation from the Government and all public institutions in the country.</p>
-          </div>
+    <div class="row first-row">
+        <div class="col-md-12 clear-paddings">
+            <div class="fixOverlayDiv">
+            <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide2.jpg">
+                <div class="OverlayTextMain">
+                    <div class="homepage">
+                        <h2>The Gokhale Institute of Public Affairs (GIPA)</h2>
+                        <p>The Gokhale Institute of Public Affairs (GIPA) is an independent, non-party and non communal organization endeavouring to serve as a center for the education of the public for democratic citizenship. It seeks to Co-operate with, and seeks Co-operation from the Government and all public institutions in the country.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
 </div>
 <div class="container" id="background">
   <div class="row gap-above">
@@ -36,7 +37,7 @@
           </a>
         </li>
         <li class="stat-elem">
-          <a href="javascript:void(0);">
+          <a href="<?=BASE_URL?>listing/structure/Journal/?select=volume">
             <h2><i class="fa fa-archive"></i></h2>
             <p alt="Coming Soon">Archives</p>
           </a>

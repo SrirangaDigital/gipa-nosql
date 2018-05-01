@@ -1,0 +1,54 @@
+{
+    "volume": "001",
+    "issue": "09",
+    "year": "1949",
+    "month": "September",
+    "id": "002/001/09",
+    "toc": [
+        {
+            "title": "Definition of Democracy",
+            "page": "0001-0005",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Poetry and citizenship",
+            "page": "0005-0007",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Rivision of Socialism",
+            "page": "0007-0007",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}

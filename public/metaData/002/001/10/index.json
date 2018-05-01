@@ -1,0 +1,69 @@
+{
+    "volume": "001",
+    "issue": "10",
+    "year": "1949",
+    "month": "October",
+    "id": "002/001/10",
+    "toc": [
+        {
+            "title": "Rivision of Socialism",
+            "page": "0001-0002",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Poetry and citizenship",
+            "page": "0002-0004",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "United Nations Day",
+            "page": "0004-0008",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Editor",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Definition of Democracy",
+            "page": "0008-0008",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}

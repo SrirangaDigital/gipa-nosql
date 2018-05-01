@@ -1,0 +1,54 @@
+{
+    "volume": "001",
+    "issue": "08",
+    "year": "1949",
+    "month": "August",
+    "id": "002/001/08",
+    "toc": [
+        {
+            "title": "Rivision of Socialism",
+            "page": "0001-0004",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Sri Rajagopalacharyar - Independence day at G.I.P.A, Bangalore",
+            "page": "0004-0008",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Editor",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Poetry and citizenship",
+            "page": "0008-0008",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "volume": "001",
+    "issue": "12",
+    "year": "1949",
+    "month": "December",
+    "id": "002/001/12",
+    "toc": [
+        {
+            "title": "Poetry and citizenship",
+            "page": "0001-0005",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "D. V. Gundappa",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Democracy",
+            "page": "0005-0005",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Editor",
+                    "salutation": ""
+                }
+            ]
+        },
+        {
+            "title": "Law and Morality",
+            "page": "0005-0005",
+            "relativePageNumber": 1,
+            "relativePageRange": "1-1",
+            "fullText": [
+
+            ],
+            "author": [
+                {
+                    "name": "Somashekhara Rau",
+                    "salutation": ""
+                }
+            ]
+        }
+    ]
+}
