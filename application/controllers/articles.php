@@ -38,7 +38,7 @@ class articles extends Controller {
 		$filter = $this->model->filterArrayToString($query);
 		$url = BASE_URL . 'api/articles?' . $filter;
 		$result = json_decode($this->model->getDataFromApi($url), true);
-		$result['pageTitle'] = ARCHIVE . ' > ' . TOC . ' > ' . ARCHIVE_VOLUME . ' ' . $viewHelper->rlZero($query['volume']) . ', ' . ARCHIVE_ISSUE . ' '. $query['issue'];
+		$result['pageTitle'] = ARCHIVE . ' > ' . TOC . ' > ' . ARCHIVE_VOLUME . ' ' . $viewHelper->rlZero($query['volume']) . ', ' . ARCHIVE_ISSUE . ' '. $viewHelper->rlZero($query['issue']);
 		($result) ? $this->view('articles/articles', json_encode($result)) : $this->view('error/index');
 	}
 
