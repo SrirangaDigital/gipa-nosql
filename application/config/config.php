@@ -26,10 +26,10 @@ define('DB_USER', 'gipaUSER');
 define('DB_PASSWORD', 'gipa123');
 
 // Git config
-define('GIT_USER_NAME', 'shruthisdst');
-define('GIT_PASSWORD', 'shruthitr14');
+define('GIT_USER_NAME', 'sriranga-deploy');
+define('GIT_PASSWORD', 'xxx');
 define('GIT_REPO', 'github.com/SrirangaDigital/gipa-nosql.git');
 define('GIT_REMOTE', 'https://' . GIT_USER_NAME . ':' . GIT_PASSWORD . '@' . GIT_REPO);
-define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
+define('GIT_EMAIL', 'accounts@srirangadigital.com');
 
 ?>
